@@ -1,0 +1,19 @@
+{
+  "name": "webpack-entrance-mannage-plugin",
+  "version": "0.1.0",
+  "description": "多入口管理",
+  "main": "MultipleMouthsManage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyuuuu/webpack-entrance-mannage-plugin.git"
+  },
+  "author": "664475324@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyuuuu/webpack-entrance-mannage-plugin/issues"
+  },
+  "homepage": "https://github.com/heyuuuu/webpack-entrance-mannage-plugin#readme"
+}
